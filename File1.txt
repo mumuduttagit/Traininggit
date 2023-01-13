@@ -1,1 +1,3 @@
 Mumu learning git
+Created git account
+Pushed first file to git
